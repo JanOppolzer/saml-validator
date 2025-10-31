@@ -215,17 +215,16 @@ if(!empty($result["error"]))
                     <div class="col col-sm-4">
                         <h2>Rychlé odkazy</h2>
                         <ul>
-                            <li><a href="#">CESNET PKI</a></li>
-                            <li><a href="#">eduID.cz</a></li>
-                            <li><a href="#">eduroam</a></li>
-                            <li><a href="#">MetaCentrum</a></li>
-                            <li><a href="#">PERUN</a></li>
+                            <li><a href="https://pki.cesnet.cz">CESNET PKI</a></li>
+                            <li><a href="https://www.eduid.cz">eduID.cz</a></li>
+                            <li><a href="https://www.eduroam.cz">eduroam</a></li>
+                            <li><a href="https://www.metacentrum.cz">MetaCentrum</a></li>
                         </ul>
                     </div>
                     <div class="col col-sm-4">
                         <h2>Kontakt</h2>
                         CESNET, z. s. p. o.<br/>
-                        Zikova 4, 16000 Praha 6<br/>
+                        Generála Píky 430/26, 16000 Praha 6<br/>
                         <a href="mailto:info@cesnet.cz">info@cesnet.cz</a>
                     </div>
                     <div class="col col-sm-4">
@@ -239,7 +238,7 @@ if(!empty($result["error"]))
         </div>
         <div class="row">
             <div class="col col-sm-12 copyright">
-                © 1996–2014 CESNET, z. s. p. o.
+                © 1996–2025 CESNET, z. s. p. o.
             </div>
         </div>
     </div></footer></div>
