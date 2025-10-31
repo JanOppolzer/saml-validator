@@ -224,7 +224,8 @@ if(!empty($result["error"]))
                     <div class="col col-sm-4">
                         <h2>Kontakt</h2>
                         CESNET, z. s. p. o.<br/>
-                        Generála Píky 430/26, 16000 Praha 6<br/>
+                        Generála Píky 430/26<br/>
+                        16000 Praha 6<br/>
                         <a href="mailto:info@cesnet.cz">info@cesnet.cz</a>
                     </div>
                     <div class="col col-sm-4">
